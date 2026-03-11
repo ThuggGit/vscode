@@ -68,7 +68,7 @@
     "@types/node": "^24"
   },
   "dependencies": {
-    "dompurify": "^3.2.6",
+    "dompurify": "^3.3.2",
     "mermaid": "^11.11.0"
   }
 }
